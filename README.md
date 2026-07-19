@@ -12,5 +12,5 @@ workflow. Machine-readable at [/resume.json](https://jayteebat.github.io/my-resu
 - [my-resume](https://github.com/JayTeeBat/my-resume) (the toolchain
 behind that page)
 - [FinanceTooling](https://github.com/JayTeeBat/FinanceTooling)
-(personal-finance pipelines: ingest, reconciliation, reporting — same CI-gated,
+(personal-finance pipelines: ingest, categorisation, reporting — same CI-gated,
 agent-assisted workflow I use professionally).
