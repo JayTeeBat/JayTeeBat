@@ -8,7 +8,9 @@ battery engineering decisions.
 resume-as-code: authored as JSON, quality-gated in CI, built with an agentic AI
 workflow. Machine-readable at [/resume.json](https://jayteebat.github.io/my-resume/resume.json).
 
-**What's here:** [my-resume](https://github.com/JayTeeBat/my-resume) (the toolchain
-behind that page) · [FinanceTooling](https://github.com/JayTeeBat/FinanceTooling)
+**What's here:**:
+- [my-resume](https://github.com/JayTeeBat/my-resume) (the toolchain
+behind that page)
+- [FinanceTooling](https://github.com/JayTeeBat/FinanceTooling)
 (personal-finance pipelines: ingest, reconciliation, reporting — same CI-gated,
 agent-assisted workflow I use professionally).
