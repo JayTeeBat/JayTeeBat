@@ -10,5 +10,3 @@ workflow. Machine-readable at [/resume.json](https://jayteebat.github.io/my-resu
 
 **What's here:** [my-resume](https://github.com/JayTeeBat/my-resume) — the toolchain
 behind that page.
-
-Day job: full commit history lives on my work account.
