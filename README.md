@@ -12,6 +12,3 @@ workflow. Machine-readable at [/resume.json](https://jayteebat.github.io/my-resu
 behind that page) · [FinanceTooling](https://github.com/JayTeeBat/FinanceTooling)
 (personal-finance pipelines: ingest, reconciliation, reporting — same CI-gated,
 agent-assisted workflow I use professionally).
-
-Day job: full commit history lives on my work account.
-
