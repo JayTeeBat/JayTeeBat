@@ -1,8 +1,7 @@
 ### Jacques Thomazo
 
-Battery systems engineer turned platform builder — 15 years from cell chemistry to
-fleet data. I build the telemetry and diagnostics platform that turns fleet data into
-battery engineering decisions.
+Battery systems and data platform engineer — 15+ years from cell chemistry to connected-fleet diagnostics. 
+I design and build the telemetry, diagnostic and engineering-data systems that turn vehicle data into battery decisions.
 
 **📄 CV:** [jayteebat.github.io/my-resume](https://jayteebat.github.io/my-resume/) —
 resume-as-code: authored as JSON, quality-gated in CI, built with an agentic AI
