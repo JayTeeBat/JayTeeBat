@@ -14,3 +14,4 @@ behind that page) · [FinanceTooling](https://github.com/JayTeeBat/FinanceToolin
 agent-assisted workflow I use professionally).
 
 Day job: full commit history lives on my work account.
+
